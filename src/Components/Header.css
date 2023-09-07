@@ -1,0 +1,21 @@
+.header p {
+    font-size: 30px;
+    color: #dbd8d8;
+    border-bottom: 1px solid #dbd8d8;
+}
+
+.header_form {
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    color: #726d6d;
+}
+
+.form_task {
+    display: flex;
+    padding: 0px 12px;
+}
+
+.mg-r-40 {
+    margin-right: 40px;
+}
